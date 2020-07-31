@@ -1,6 +1,6 @@
 # Reducing Service Creation Time Leveraging on Network Function Virtualization
 
-VNF Packages
+#VNF Packages
 
 For the vnf configuration; we used the ansible-charm developed under the 5GinFIRE project 
 which can be accessed at the following link:
@@ -14,10 +14,10 @@ the above link and replace the playbook folder with the one presented in the cha
 After compile the new charms folder and zip your vnf folder and its ready to be uploaded to the ETSI OSM platform
 
 
-NSD Packages
+#NSD Packages
 
 Customise the given descriptor to suit your network environment and zip the entire folder and its ready for upload
 
-NST
+#NST
 
 No need for zipping, just upload the yaml file as it is provided.
